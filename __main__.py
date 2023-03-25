@@ -3,4 +3,4 @@
 #UCSD -- SIO 
 #Mar 23, 2023
 
-## This is the main file to run the scripts used for generating the MET Data plots 
+## This is the main file that includes all the top level executives for plotting the MET Data
